@@ -1,0 +1,12 @@
+C:\Users\allan\source\repos\newpp\newpp\bin\Debug\chessclub.accdb
+C:\Users\allan\source\repos\newpp\newpp\bin\Debug\newpp.exe.config
+C:\Users\allan\source\repos\newpp\newpp\bin\Debug\newpp.exe
+C:\Users\allan\source\repos\newpp\newpp\bin\Debug\newpp.pdb
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.Form1.resources
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.Properties.Resources.resources
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.exe
+C:\Users\allan\source\repos\newpp\newpp\obj\Debug\newpp.pdb
